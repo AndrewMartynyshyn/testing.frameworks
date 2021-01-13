@@ -1,6 +1,6 @@
 {
-  "name": "dom-testing-library-with-anything",
-  "version": "1.0.0",
+  "name": "generic-testing",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,7 @@
     "test:watch": "jest --watch"
   },
   "keywords": [],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
-  "license": "MIT",
+  "author": "Andrew Martynyshyn",  
   "dependencies": {
     "@dojo/framework": "^5.0.4",
     "angular": "^1.7.8",
